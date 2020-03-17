@@ -10,6 +10,8 @@ public class Library {
     }
 
 
+
+
     public int checkStock(){
         return books.size();
     }
@@ -25,7 +27,17 @@ public class Library {
         return this.capacity;
     }
 
+    public Book removeBook(Book book){
+        this.books.remove(book);
+        capacity += 1;
+        return book;
+    }
+
+
 }
+
+
+
 
 
 

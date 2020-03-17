@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383d743d-a16e-4e3d-8e96-5072eb9fa465" name="Default Changelist" comment="" />
+    <list default="true" id="383d743d-a16e-4e3d-8e96-5072eb9fa465" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Borrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZGvC5HGKzpdLfe5gtCAt2x4PRJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +33,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.BorrowerTest">
+    <configuration name="BorrowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library_Hmk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BorrowerTest.borrowBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library_Hmk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BorrowerTest" />
+      <option name="METHOD_NAME" value="borrowBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library_Hmk" />
       <option name="PACKAGE_NAME" value="" />
@@ -35,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BorrowerTest" />
+        <item itemvalue="JUnit.BorrowerTest.borrowBook" />
         <item itemvalue="JUnit.LibraryTest" />
       </list>
     </recent_temporary>
@@ -57,22 +90,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="438" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1584478195426" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584480943484">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1584483941997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584480943484" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584480943478">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584483941997" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1584484030418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584480943478" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584480943476">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584484030418" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1584484030415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584480943476" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584480943481">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584484030415" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1584484030414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584480943481" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584484030414" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1584484030417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584484030417" />
     <state x="301" y="37" width="837" height="825" key="find.popup" timestamp="1584478659474">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
